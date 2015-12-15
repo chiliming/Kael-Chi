@@ -41,5 +41,3 @@ for i in range(len(url_temp)):
             print item.text
         print 'finish hand'
     print 'finish %d url'%(i+1)
-
-
